@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: expenses
+  name: expense_01
   region: us-east-1
 
 managedNodeGroups:
